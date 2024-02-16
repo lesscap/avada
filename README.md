@@ -1,3 +1,3 @@
-# epic
+# avada
 
 A nodejs web framework
